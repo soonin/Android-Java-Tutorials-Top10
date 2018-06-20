@@ -1,36 +1,16 @@
-# Android-Tricks
-Getting Started
-Welcome to Training for Android developers. Here you'll find training classes that describe how to accomplish a specific task with code samples you can re-use in your app. Classes are organized into several groups you can see at the top-level of the left navigation.
+## Android Java Top 10 Tutorials
+Welcome to Android Java Top 10 Tutorials :
 
-The first training guides below teach you the essentials for Android app development. Even If you're a new Android app developer, you should'nt complete each of these classes in order.
+## IOS 11, Swift 4, Tutorial: Detect face details
+IOS 11, Swift 4, Tutorial: Detect face, eyebrow, eyes, lips,.. (VNDetectFaceLandmarksRequest)
+[![Face Detection](https://raw.githubusercontent.com/soonin/IOS-Swift-Tutorials-Top10/master/img/IOSSwiftFaceDetection.JPG)](https://youtu.be/zylvQh1cU5Q)
+# [Link To Repository](https://github.com/soonin/IOS-Swift-VisionFaceDetection)
 
+Learn the easy way to Create Face Detection in effect Project to detect face and details like eye , eyebrow , nose , lips and etc.. with different cool UI in Xcode by Swift Program (Vision, VNDetectFaceLandmarksRequest ) You will be using Vision, VNDetectFaceLandmarksRequest, UIImagePickerControllerDelegate, UINavigationControllerDelegate, UIIma…
 
-# Android Tutorial Tricks: How To Hide ActionBar/TitleBar In Android App (for the whole project)
-How To Hide ActionBar/TitleBar In Android App (for the whole project)
-```
-	customize
-		\app\src\main\res\values\styles.xml
-		\app\src\main\AndroidManifest.xml
-```
+## IOS 11, Swift 4, Tutorial: Augmented Reality 3D Text
+IOS 11, Swift 4, Tutorial : How to Create Augmented Reality 3D Text app with Swift in Xcode  ARKit
+[![3D Text](https://raw.githubusercontent.com/soonin/IOS-Swift-Tutorials-Top10/master/img/IOSSwift3DText.JPG)](https://youtu.be/cP4T8i_c-f4)
+# [Link To Repository](https://github.com/soonin/IOS-Swift-ARKit3dText)
 
-# Android Tutorial Tricks: How To Hide ActionBar / TitleBar In Android App (for one Activity)
-How To Hide ActionBar / TitleBar In Android App (for one Activity)
-```
-	customize
-		\app\src\main\java\..\MainActivity.java
-```
-
-
-## Installation
-
-  Install using the developer.android.com Website :
-
-      https://developer.android.com/studio/index.html
-      
-# Refrences
-
- * https://developer.android.com/training/index.html
- * https://developer.android.com/studio/index.html
- * https://developer.android.com/studio/intro/index.html
- 
- 
+Learn the easy way to Create Augment Reality 3D Text App to show text you type in reality séance around you included 3 Dimension text and different material in Swift with different cool UI in Xcode by Swift Program (ARKit, SceneKit ) You will be using ARKit, SceneKit, ARSCNViewDelegate, ARSCNView, viewWillAppear, ARWorldTrackingConfiguration, se…
